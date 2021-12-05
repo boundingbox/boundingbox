@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @boundingbox
+- 👀 I’m interested in video games
+- 🌱 I’m currently learning with the CS50x course
+- 💞️ I’m looking to collaborate on what I can.
+- 📫 How to reach me: psionichelmsman@gmail.com  email me once, please.
